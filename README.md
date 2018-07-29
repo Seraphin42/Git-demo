@@ -5,5 +5,5 @@ Changements dans git
 
 modifs depuis github
 
-modifs depuis ma machine
+modifs depuis ma machine et c'est cool
 
